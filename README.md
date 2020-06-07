@@ -1,1 +1,1 @@
-# ultrasonic-sensor-and-raspberry-pi
+# automated-waste-monitoring-and-alert-system-using-iot 
